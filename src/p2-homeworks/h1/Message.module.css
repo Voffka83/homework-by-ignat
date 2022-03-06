@@ -46,15 +46,20 @@ dialog::after {
 
 .dialogInf h2 {
     color: dodgerblue;
+    margin: 5px 10px 5px 200px;
 
 }
 
 .dialogInf p {
     color: grey;
+    margin: 10px;
 
 }
 
 .timeWindow {
     color: darkolivegreen;
+    float: right;
+    margin: 0 10px 5px 0;
+    color: black;
 
 }
